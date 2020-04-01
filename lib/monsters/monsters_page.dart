@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:monsters_inc/monsters/monsters_model.dart';
+
+import 'monsters_model.dart';
 
 Future<List<Monsters>> fetchMonsters() async {
   String apiUrl = "https://jsonplaceholder.typicode.com/users";

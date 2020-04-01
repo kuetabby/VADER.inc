@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:monsters_inc/albums/albums_page.dart';
-import 'package:monsters_inc/monsters/monsters_page.dart';
+
+import 'albums/albums_page.dart';
+import 'monsters/monsters_page.dart';
 
 class App extends StatelessWidget {
   @override

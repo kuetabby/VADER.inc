@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:monsters_inc/app.dart';
+import 'app.dart';
 
 void main() => runApp(Main());
 
